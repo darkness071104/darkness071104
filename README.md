@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi there 👋, I'm Fauzan!
+I'm a Computer Science student at Diponegoro University with a passion for programming.
 
-<!--
-**darkness071104/darkness071104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Tools:
+<p>
+    <img src="https://img.shields.io/badge/OS-Windows-blue?&logo=windows" />
+    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
+</p>
 
-Here are some ideas to get you started:
+### Stats:
+  - 📚 I'm currently studying at Diponegoro University
+  - 🌱 I’m currently learning Nest.js
+  - 👯 I’m looking to collaborate on web development
+  - 🤔 I’m looking for help with master of programming. 
+  - 💬 Ask me about anything
+  - 📫 How to reach me: <a href="mailto:fauzanramadhanputra.7f@gmail.com">Email me!</a>
+  - 😄 Pronouns: He/Him
+<p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauzanmuh&layout=compact" height=180 />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
