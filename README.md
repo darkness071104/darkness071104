@@ -16,6 +16,6 @@ I'm a Computer Science student at Diponegoro University with a passion for progr
   - 📫 How to reach me: <a href="mailto:fauzanramadhanputra.7f@gmail.com">Email me!</a>
   - 😄 Pronouns: He/Him
 <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauzanmuh&layout=compact" height=180 />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauzanmuh&layout=compact&theme=dark" height=180 />
 </p>
 
