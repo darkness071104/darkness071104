@@ -8,6 +8,8 @@ I'm a Computer Science student at Diponegoro University with a passion for progr
 </p>
 
 ### Stats:
+<details>
+<summary><strong>What i am learning/working on these days</strong></summary>
   - 📚 I'm currently studying at Diponegoro University
   - 🌱 I’m currently learning Nest.js
   - 👯 I’m looking to collaborate on web development
@@ -15,6 +17,7 @@ I'm a Computer Science student at Diponegoro University with a passion for progr
   - 💬 Ask me about anything
   - 📫 How to reach me: <a href="mailto:fauzanramadhanputra.7f@gmail.com">Email me!</a>
   - 😄 Pronouns: He/Him
+</details>
 <p>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dafex301&layout=compact&langs_count=8&theme=algolia"/>
 </p>
