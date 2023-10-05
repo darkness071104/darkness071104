@@ -1,11 +1,6 @@
 # Hi there 👋, I'm Fauzan!
 I'm a Computer Science student at Diponegoro University with a passion for programming.
 
-### Tools:
-<p>
-    <img src="https://img.shields.io/badge/OS-Windows-blue?&logo=windows" />
-    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
-</p>
 <details>
 <summary><strong>What i am learning/working on these days</strong></summary>
   - 📚 I'm currently studying at Diponegoro University </br>
@@ -16,6 +11,13 @@ I'm a Computer Science student at Diponegoro University with a passion for progr
   - 📫 How to reach me: <a href="mailto:fauzanramadhanputra.7f@gmail.com">Email me!</a> </br>
   - 😄 Pronouns: He/Him </br>
 </details>
+
+### Tools:
+<p>
+    <img src="https://img.shields.io/badge/OS-Windows-blue?&logo=windows" />
+    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
+</p>
+
 ### Stats:
 <p>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=darkness071104&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
