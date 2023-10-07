@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Fauzan!
 I'm a Computer Science student at Diponegoro University with a passion for programming.
 
-<details>
+
 <summary><strong>What i am learning/working on these days</strong></summary>
   - 📚 I'm currently studying at Diponegoro University </br>
   - 🌱 I’m currently learning Nest.js </br>
@@ -10,7 +10,6 @@ I'm a Computer Science student at Diponegoro University with a passion for progr
   - 💬 Ask me about anything </br>
   - 📫 How to reach me: <a href="mailto:fauzanramadhanputra.7f@gmail.com">Email me!</a> </br>
   - 😄 Pronouns: He/Him </br>
-</details>
 
 ### Tools:
 <p>
