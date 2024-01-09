@@ -4,7 +4,7 @@ I'm a Computer Science student at Diponegoro University with a passion for progr
 
 <summary><strong>What i am learning/working on these days</strong></summary>
   - 📚 I'm currently studying at Diponegoro University </br>
-  - 🌱 I’m currently learning Nest.js </br>
+  - 🌱 I’m currently learning Nesx.js </br>
   - 👯 I’m looking to collaborate on web development </br>
   - 🤔 I’m looking for help with master of programming. </br>
   - 💬 Ask me about anything </br>
