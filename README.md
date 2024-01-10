@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Fauzan!
+## Hi there 👋, I'm Fauzan!
 I'm a Computer Science student at Diponegoro University with a passion for programming.
 
 
