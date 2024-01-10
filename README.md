@@ -17,7 +17,7 @@ I'm a Computer Science student at Diponegoro University with a passion for progr
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
 </p>
 
-### Stats:
+/*### Stats:*/
 <p>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=darkness071104&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=darkness071104&layout=compact&langs_count=8&theme=algolia"/>
